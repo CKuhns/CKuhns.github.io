@@ -42,6 +42,8 @@ nav {
 }
 ul {
   padding: 5px;
+  margin: 0;
+  border: 8px orange solid;
 }
 .contact {
   font-size: 15px;
