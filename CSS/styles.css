@@ -19,6 +19,7 @@ body {
 header {
   color:white;
   background-color:#795548;
+  padding: 20px;
 }
 section {
   display: inline-block;
